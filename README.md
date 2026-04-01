@@ -1,2 +1,3 @@
-#My first lesson
-## Version control
+My first lesson
+Version control
+This is amazing
